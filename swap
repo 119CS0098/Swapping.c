@@ -3,7 +3,6 @@ int main()
 { 
     int x = 8, y = 4; 
   
-    // Code to swap 'x' and 'y' 
     x = x * y; 
     y = x / y; 
     x = x / y; 
